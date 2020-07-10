@@ -1,0 +1,8 @@
+  2020/03/24 14:33:48: Starting composition “result_giphy”.
+
+  Output To: D:\Oga\GoogleDiveUnlimish\_works\3dcg\lip\result_giphy.mov    2020/03/24 14:34:00: Finished composition “result_giphy”.
+
+
+  Total Time Elapsed: 12 Seconds
+Log closed on 2020/03/24 at 14:34:00
+
